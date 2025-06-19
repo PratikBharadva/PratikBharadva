@@ -1,6 +1,7 @@
+
 - 👋 Hi, I’m Pratik Bharadva
 - 👀 I’m interested in Web Development, MERN stack
-- 🌱 I’m currently working with ReactJS
+- 🌱 ReactJS Developer
 - 📫 How to reach me : @pratikbharadva27@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing 
